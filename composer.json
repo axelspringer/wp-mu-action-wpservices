@@ -1,7 +1,7 @@
 {
-    "name": "muplugin/asse-action-wpservices",
+    "name": "axelpringer/wp-mu-action-wpservices",
     "type": "wordpress-muplugin",
-    "description": "asse action wpservices",
+    "description": "axelspringer action wpservices",
     "keywords": [
         "wordpress",
         "muplugin"
@@ -12,9 +12,9 @@
             "homepage": "http://www.axelspringer.de"
         }
     ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-action-wpservices/browse",
-    "license": "proprietary",
+    "homepage": "https://github.com/axelspringer/wp-mu-action-wpservices",
+    "license": "Apache-2.0",
     "extra": {
-        "installer-name": "asse-action-wpservices"
+        "installer-name": "wp-mu-action-wpservices"
     }
 }
